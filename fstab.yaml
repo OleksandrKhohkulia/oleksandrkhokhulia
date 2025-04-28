@@ -1,4 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/16kjM73Lfpmr9E9ZqrXC6JHEUYbahVXGn?usp=sharing
-    # url: https://content.da.live/OleksandrKhohkulia/oleksandrkhokhulia/
-    # type: markup
+  /: 
+    url: https://content.da.live/OleksandrKhohkulia/oleksandrkhokhulia/
+    type: markup
